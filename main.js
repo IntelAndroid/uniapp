@@ -1,4 +1,4 @@
-import App from './App'
+gitimport App from './App'
 import store from './store'
 
 // #ifndef VUE3
